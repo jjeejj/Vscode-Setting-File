@@ -33,6 +33,7 @@
         "ms-vsliveshare.vsliveshare",
         "ms-vsliveshare.vsliveshare-audio",
         "spences10.vba",
-        "robertohuertasm.vscode-icons"
+        "robertohuertasm.vscode-icons",
+        "hangxingliu.vscode-nginx-conf-hint"
     ]
 }
