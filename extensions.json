@@ -35,6 +35,7 @@
         "spences10.vba",
         "robertohuertasm.vscode-icons",
         "hangxingliu.vscode-nginx-conf-hint",
-        "dotjoshjohnson.xml"
+        "dotjoshjohnson.xml",
+        "hbenl.vscode-mocha-test-adapter"
     ]
 }
