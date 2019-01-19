@@ -37,6 +37,7 @@
         "hangxingliu.vscode-nginx-conf-hint",
         "dotjoshjohnson.xml",
         "maty.vscode-mocha-sidebar",
-        "kasperbauer.vscode-upsource"
+        "kasperbauer.vscode-upsource",
+        "vector-of-bool.cmake-tools"
     ]
 }
