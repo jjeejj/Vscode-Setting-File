@@ -38,6 +38,7 @@
         "dotjoshjohnson.xml",
         "maty.vscode-mocha-sidebar",
         "kasperbauer.vscode-upsource",
-        "vector-of-bool.cmake-tools"
+        "vector-of-bool.cmake-tools",
+        "shalldie.background"
     ]
 }
