@@ -39,6 +39,7 @@
         "maty.vscode-mocha-sidebar",
         "kasperbauer.vscode-upsource",
         "vector-of-bool.cmake-tools",
-        "shalldie.background"
+        "shalldie.background",
+        "zxh404.vscode-proto3"
     ]
 }
