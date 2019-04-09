@@ -44,6 +44,6 @@
         "actboy168.lua-debug",
         "keyring.lua",
         "yzhang.markdown-all-in-one",
-        "bajdzis.vscode-database"
+        "formulahendry.vscode-mysql"
     ]
 }
