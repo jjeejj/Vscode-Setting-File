@@ -45,6 +45,7 @@
         "keyring.lua",
         "yzhang.markdown-all-in-one",
         "formulahendry.vscode-mysql",
-        "shengchen.vscode-leetcode"
+        "shengchen.vscode-leetcode",
+        "ms-vscode-remote.vscode-remote-extensionpack"
     ]
 }
