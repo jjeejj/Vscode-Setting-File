@@ -47,6 +47,7 @@
         "formulahendry.vscode-mysql",
         "shengchen.vscode-leetcode",
         "ms-vscode-remote.vscode-remote-extensionpack",
-        "pnp.polacode"
+        "pnp.polacode",
+        "slevesque.vscode-hexdump"
     ]
 }
