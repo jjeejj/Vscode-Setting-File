@@ -49,6 +49,7 @@
         "ms-vscode-remote.vscode-remote-extensionpack",
         "pnp.polacode",
         "slevesque.vscode-hexdump",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf",
+        "oracle.oracledevtools"
     ]
 }
