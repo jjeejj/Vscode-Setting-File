@@ -50,6 +50,7 @@
         "pnp.polacode",
         "slevesque.vscode-hexdump",
         "tomoki1207.pdf",
-        "oracle.oracledevtools"
+        "oracle.oracledevtools",
+        "grapecity.gc-excelviewer"
     ]
 }
