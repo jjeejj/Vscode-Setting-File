@@ -51,6 +51,7 @@
         "slevesque.vscode-hexdump",
         "tomoki1207.pdf",
         "oracle.oracledevtools",
-        "grapecity.gc-excelviewer"
+        "grapecity.gc-excelviewer",
+        "dart-code.dart-code"
     ]
 }
