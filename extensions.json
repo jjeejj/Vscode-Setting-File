@@ -52,6 +52,7 @@
         "tomoki1207.pdf",
         "oracle.oracledevtools",
         "grapecity.gc-excelviewer",
-        "dart-code.dart-code"
+        "dart-code.dart-code",
+        "jebbs.plantuml"
     ]
 }
