@@ -53,6 +53,9 @@
         "oracle.oracledevtools",
         "grapecity.gc-excelviewer",
         "dart-code.dart-code",
-        "jebbs.plantuml"
+        "jebbs.plantuml",
+        "pivotal.vscode-spring-boot",
+        "vscjava.vscode-spring-boot-dashboard",
+        "vscjava.vscode-spring-initializr"
     ]
 }
