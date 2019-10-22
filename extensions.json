@@ -56,6 +56,7 @@
         "jebbs.plantuml",
         "pivotal.vscode-spring-boot",
         "vscjava.vscode-spring-boot-dashboard",
-        "vscjava.vscode-spring-initializr"
+        "vscjava.vscode-spring-initializr",
+        "gabrielbb.vscode-lombok"
     ]
 }
