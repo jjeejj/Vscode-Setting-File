@@ -58,6 +58,7 @@
         "vscjava.vscode-spring-boot-dashboard",
         "vscjava.vscode-spring-initializr",
         "gabrielbb.vscode-lombok",
-        "ms-vsonline.vsonline"
+        "ms-vsonline.vsonline",
+        "alibabacloud-cloudtoolkit.toolkit-vscode"
     ]
 }
