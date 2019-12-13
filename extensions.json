@@ -59,6 +59,7 @@
         "vscjava.vscode-spring-initializr",
         "gabrielbb.vscode-lombok",
         "ms-vsonline.vsonline",
-        "alibabacloud-cloudtoolkit.toolkit-vscode"
+        "alibabacloud-cloudtoolkit.toolkit-vscode",
+        "pivotal.vscode-boot-dev-pack"
     ]
 }
