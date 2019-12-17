@@ -60,6 +60,7 @@
         "gabrielbb.vscode-lombok",
         "ms-vsonline.vsonline",
         "alibabacloud-cloudtoolkit.toolkit-vscode",
-        "pivotal.vscode-boot-dev-pack"
+        "pivotal.vscode-boot-dev-pack",
+        "mikestead.dotenv"
     ]
 }
