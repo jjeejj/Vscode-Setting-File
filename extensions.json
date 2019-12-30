@@ -61,6 +61,7 @@
         "ms-vsonline.vsonline",
         "alibabacloud-cloudtoolkit.toolkit-vscode",
         "pivotal.vscode-boot-dev-pack",
-        "mikestead.dotenv"
+        "mikestead.dotenv",
+        "kisstkondoros.vscode-gutter-preview"
     ]
 }
