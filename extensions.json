@@ -62,6 +62,7 @@
         "alibabacloud-cloudtoolkit.toolkit-vscode",
         "pivotal.vscode-boot-dev-pack",
         "mikestead.dotenv",
-        "kisstkondoros.vscode-gutter-preview"
+        "kisstkondoros.vscode-gutter-preview",
+        "formulahendry.code-runner"
     ]
 }
