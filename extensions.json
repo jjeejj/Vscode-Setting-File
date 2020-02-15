@@ -63,6 +63,7 @@
         "pivotal.vscode-boot-dev-pack",
         "mikestead.dotenv",
         "kisstkondoros.vscode-gutter-preview",
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        "niudai.vscode-zhihu"
     ]
 }
