@@ -64,6 +64,7 @@
         "mikestead.dotenv",
         "kisstkondoros.vscode-gutter-preview",
         "formulahendry.code-runner",
-        "niudai.vscode-zhihu"
+        "niudai.vscode-zhihu",
+        "premparihar.gotestexplorer"
     ]
 }
