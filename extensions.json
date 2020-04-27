@@ -66,6 +66,7 @@
         "formulahendry.code-runner",
         "niudai.vscode-zhihu",
         "premparihar.gotestexplorer",
-        "aliyun.aliyun-serverless"
+        "aliyun.aliyun-serverless",
+        "codeinchinese.englishchinesedictionary"
     ]
 }
