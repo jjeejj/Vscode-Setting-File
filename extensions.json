@@ -69,6 +69,7 @@
         "aliyun.aliyun-serverless",
         "codeinchinese.englishchinesedictionary",
         "mushan.vscode-paste-image",
-        "justjavac.vscode-deno"
+        "justjavac.vscode-deno",
+        "james-yu.latex-workshop"
     ]
 }
