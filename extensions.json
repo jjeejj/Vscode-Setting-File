@@ -70,6 +70,7 @@
         "codeinchinese.englishchinesedictionary",
         "mushan.vscode-paste-image",
         "justjavac.vscode-deno",
-        "james-yu.latex-workshop"
+        "james-yu.latex-workshop",
+        "esbenp.prettier-vscode"
     ]
 }
