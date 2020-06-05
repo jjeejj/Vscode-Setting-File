@@ -71,6 +71,7 @@
         "mushan.vscode-paste-image",
         "justjavac.vscode-deno",
         "james-yu.latex-workshop",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "kumar-harsh.graphql-for-vscode"
     ]
 }
