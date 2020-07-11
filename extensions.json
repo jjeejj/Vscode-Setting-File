@@ -74,6 +74,7 @@
         "esbenp.prettier-vscode",
         "kumar-harsh.graphql-for-vscode",
         "vadimcn.vscode-lldb",
-        "ms-vscode.vscode-typescript-tslint-plugin"
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "ms-vscode.hexeditor"
     ]
 }
