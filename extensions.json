@@ -76,6 +76,7 @@
         "vadimcn.vscode-lldb",
         "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-vscode.hexeditor",
-        "mongodb.mongodb-vscode"
+        "mongodb.mongodb-vscode",
+        "alibabacloud-cloudtoolkit.toolkit-vscode"
     ]
 }
