@@ -77,6 +77,7 @@
         "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-vscode.hexeditor",
         "mongodb.mongodb-vscode",
-        "alibabacloud-cloudtoolkit.toolkit-vscode"
+        "alibabacloud-cloudtoolkit.toolkit-vscode",
+        "gitlab.gitlab-workflow"
     ]
 }
