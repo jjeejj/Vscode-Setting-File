@@ -79,6 +79,7 @@
         "mongodb.mongodb-vscode",
         "alibabacloud-cloudtoolkit.toolkit-vscode",
         "gitlab.gitlab-workflow",
-        "dtsvet.vscode-wasm"
+        "dtsvet.vscode-wasm",
+        "tamasfe.even-better-toml"
     ]
 }
