@@ -80,6 +80,7 @@
         "alibabacloud-cloudtoolkit.toolkit-vscode",
         "gitlab.gitlab-workflow",
         "dtsvet.vscode-wasm",
-        "tamasfe.even-better-toml"
+        "tamasfe.even-better-toml",
+        "obkoro1.korofileheader"
     ]
 }
