@@ -81,6 +81,7 @@
         "gitlab.gitlab-workflow",
         "dtsvet.vscode-wasm",
         "tamasfe.even-better-toml",
-        "obkoro1.korofileheader"
+        "obkoro1.korofileheader",
+        "ms-toolsai.jupyter"
     ]
 }
