@@ -82,6 +82,7 @@
         "dtsvet.vscode-wasm",
         "tamasfe.even-better-toml",
         "obkoro1.korofileheader",
-        "ms-toolsai.jupyter"
+        "ms-toolsai.jupyter",
+        "austin.code-gnu-global"
     ]
 }
