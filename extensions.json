@@ -83,6 +83,7 @@
         "tamasfe.even-better-toml",
         "obkoro1.korofileheader",
         "ms-toolsai.jupyter",
-        "austin.code-gnu-global"
+        "austin.code-gnu-global",
+        "orta.vscode-jest"
     ]
 }
