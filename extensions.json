@@ -84,6 +84,7 @@
         "obkoro1.korofileheader",
         "ms-toolsai.jupyter",
         "austin.code-gnu-global",
-        "orta.vscode-jest"
+        "orta.vscode-jest",
+        "ms-vscode.makefile-tools"
     ]
 }
