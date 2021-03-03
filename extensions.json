@@ -85,6 +85,7 @@
         "ms-toolsai.jupyter",
         "austin.code-gnu-global",
         "orta.vscode-jest",
-        "ms-vscode.makefile-tools"
+        "ms-vscode.makefile-tools",
+        "ms-vscode.cmake-tools"
     ]
 }
