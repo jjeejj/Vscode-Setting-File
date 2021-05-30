@@ -86,6 +86,7 @@
         "austin.code-gnu-global",
         "orta.vscode-jest",
         "ms-vscode.makefile-tools",
-        "ms-vscode.cmake-tools"
+        "ms-vscode.cmake-tools",
+        "felixfbecker.php-pack"
     ]
 }
