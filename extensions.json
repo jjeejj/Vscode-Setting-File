@@ -87,6 +87,7 @@
         "orta.vscode-jest",
         "ms-vscode.makefile-tools",
         "ms-vscode.cmake-tools",
-        "felixfbecker.php-pack"
+        "felixfbecker.php-pack",
+        "ms-vscode.cpptools-extension-pack"
     ]
 }
